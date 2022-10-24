@@ -1,4 +1,3 @@
-tensorflow-gpu==2.9.0
 pystow
 unicodedata2
 rdkit-pypi
